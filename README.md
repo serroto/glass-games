@@ -1,1 +1,1 @@
-# glass-games
+# Glass Games profile page
